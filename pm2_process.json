@@ -1,0 +1,9 @@
+{
+  "name": "Inky-Strava",
+  "script": "index.js",
+  "watch": true,
+  "ignore_watch" : ["node_modules", "data/*", "conf/*"],
+  "watch_options": {
+    "followSymlinks": false
+  }
+}
